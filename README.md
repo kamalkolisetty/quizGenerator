@@ -17,7 +17,7 @@ A simple quiz application built with React, Tailwind CSS, and React Router. This
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/yourusername/quiz-app.git](https://github.com/kamalkolisetty/quizGenerator)
+   git clone [https://github.com/kamalkolisetty/quizGenerator](https://github.com/kamalkolisetty/quizGenerator)
    cd quizGenerator
    ```
 

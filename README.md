@@ -1,6 +1,4 @@
-Certainly! Here's a basic `README.md` file for your project:
 
-```markdown
 # Quiz App
 
 A simple quiz application built with React, Tailwind CSS, and React Router. This application allows users to create quizzes, view a list of available quizzes, and take quizzes with multiple-choice questions.
